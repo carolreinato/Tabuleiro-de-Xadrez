@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\netcoreapp2.1\ProjetoXadrez.deps.json
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\netcoreapp2.1\ProjetoXadrez.runtimeconfig.json
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\netcoreapp2.1\ProjetoXadrez.runtimeconfig.dev.json
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\netcoreapp2.1\ProjetoXadrez.dll
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\netcoreapp2.1\ProjetoXadrez.pdb
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\netcoreapp2.1\ProjetoXadrez.csprojAssemblyReference.cache
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\netcoreapp2.1\ProjetoXadrez.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\netcoreapp2.1\ProjetoXadrez.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\netcoreapp2.1\ProjetoXadrez.AssemblyInfo.cs
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\netcoreapp2.1\ProjetoXadrez.dll
+C:\Users\User\Documents\Educação\Curso C# - Programação Orientada a Objetos\Seção 12 - Projeto Xadrez\Projeto Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\netcoreapp2.1\ProjetoXadrez.pdb
